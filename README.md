@@ -9,3 +9,5 @@ Multiple Linear Regression
 Backward Elimination - Multicollinearity
 
 KNN Classifier on Classified Data
+
+Hyperparameter Optimization - XGBoost
