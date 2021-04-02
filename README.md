@@ -11,3 +11,5 @@ Backward Elimination - Multicollinearity
 KNN Classifier on Classified Data
 
 Hyperparameter Optimization - XGBoost
+
+Classification of Images using Logistic Regression
