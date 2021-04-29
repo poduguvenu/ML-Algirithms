@@ -15,3 +15,5 @@ Hyperparameter Optimization - XGBoost
 Classification of Images using Logistic Regression
 
 K-NN Algorithm For Calssifying Diabetes Patients
+
+Naive Bayes Classifier - SMS Classification
